@@ -1,0 +1,1554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260520113852RHKNUI</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605201138527MNWRH</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>JUGAMOS A LO ANDALUZ</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_subtitle</key>
+    <value>SDA para Educación Primaria</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Vicente Rodríguez Rodríguez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>El alumnado investigará y practicará diferentes juegos tradicionales andaluces. </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1779267801027</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpdu3xqy-i70zx7ax7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. PRESENTACIÓN DEL PROYECTO</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. PRESENTACIÓN DEL PROYECTO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xqy-i70zx7ax7</odePageId>
+      <odeBlockId>block-1779036450796-nar35in66</odeBlockId>
+      <blockName>Tabla</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xqy-i70zx7ax7</odePageId>
+          <odeBlockId>block-1779036450796-nar35in66</odeBlockId>
+          <odeIdeviceId>idevice-1779036450793-hwns4tcbx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><br /></p>
+<table border="1" style="width: 100%; height: 350.667px;">
+<tbody>
+<tr style="height: 32.6667px;">
+<td style="width: 50.081%; height: 32.6667px;"><strong>Centro de interés</strong></td>
+<td style="width: 50.081%;">Los juegos tradicionales andaluces como elemento cultural y educativo.</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 50.081%; height: 32.6667px;"><strong>Nivel educativo</strong></td>
+<td style="width: 50.081%;">Segundo y tercer ciclo de Educación Primaria.</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 50.081%; height: 32.6667px;"><strong>Temporalización</strong></td>
+<td style="width: 50.081%;">Del 16 de febrero al 6 de marzo.</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 50.081%; height: 32.6667px;"><strong>Materias implicadas</strong></td>
+<td style="width: 50.081%;">
+<ul>
+<li>Educación Física</li>
+<li>Lengua Castellana</li>
+<li>Conocimiento del Medio<strong><br /></strong></li>
+</ul>
+</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 50.081%; height: 32.6667px;"><strong>Descripción general</strong></td>
+<td style="width: 50.081%;">El alumnado investigará y practicará juegos tradicionales andaluces para conocer mejor su cultura, desarrollar habilidades motrices y fomentar la convivencia.</td>
+</tr>
+<tr>
+<td style="width: 50.081%;"><strong>Justificación</strong></td>
+<td style="width: 50.081%;">
+<p>La justificación de esta SDA, viene dada por el compromiso por perseverar las costumbres andaluzas en nuestras generaciones posteriores. Bien sabemos, que la mayor parte de nuestro alumnado pasa menos tiempo realizando juegos en nuestras calles y más tiempo en casa con videoconsolas, móvil o viendo la televisión. </p>
+<p>Es por ello, que hemos querido incorporar la tarea de la rutina de pensamiento, puesto que veíamos oportuno un inicio en la escuela de ese trabajo de investigación de juegos tradicionales andaluces para que nunca se pierdan. </p>
+</td>
+</tr>
+</tbody>
+</table>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779036450793-hwns4tcbx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><br /></p>\n<table border=\"1\" style=\"width: 100%; height: 350.667px;\">\n<tbody>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 50.081%; height: 32.6667px;\"><strong>Centro de interés</strong></td>\n<td style=\"width: 50.081%;\">Los juegos tradicionales andaluces como elemento cultural y educativo.</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 50.081%; height: 32.6667px;\"><strong>Nivel educativo</strong></td>\n<td style=\"width: 50.081%;\">Segundo y tercer ciclo de Educación Primaria.</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 50.081%; height: 32.6667px;\"><strong>Temporalización</strong></td>\n<td style=\"width: 50.081%;\">Del 16 de febrero al 6 de marzo.</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 50.081%; height: 32.6667px;\"><strong>Materias implicadas</strong></td>\n<td style=\"width: 50.081%;\">\n<ul>\n<li>Educación Física</li>\n<li>Lengua Castellana</li>\n<li>Conocimiento del Medio<strong><br /></strong></li>\n</ul>\n</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 50.081%; height: 32.6667px;\"><strong>Descripción general</strong></td>\n<td style=\"width: 50.081%;\">El alumnado investigará y practicará juegos tradicionales andaluces para conocer mejor su cultura, desarrollar habilidades motrices y fomentar la convivencia.</td>\n</tr>\n<tr>\n<td style=\"width: 50.081%;\"><strong>Justificación</strong></td>\n<td style=\"width: 50.081%;\">\n<p>La justificación de esta SDA, viene dada por el compromiso por perseverar las costumbres andaluzas en nuestras generaciones posteriores. Bien sabemos, que la mayor parte de nuestro alumnado pasa menos tiempo realizando juegos en nuestras calles y más tiempo en casa con videoconsolas, móvil o viendo la televisión. </p>\n<p>Es por ello, que hemos querido incorporar la tarea de la rutina de pensamiento, puesto que veíamos oportuno un inicio en la escuela de ese trabajo de investigación de juegos tradicionales andaluces para que nunca se pierdan. </p>\n</td>\n</tr>\n</tbody>\n</table>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr0-t0i8sld3u</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. OBJETIVOS Y COMPETENCIAS</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. OBJETIVOS Y COMPETENCIAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. OBJETIVOS Y COMPETENCIAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr0-t0i8sld3u</odePageId>
+      <odeBlockId>block-1779115254290-znlj4yk2m</odeBlockId>
+      <blockName>Criterios de evaluación</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr0-t0i8sld3u</odePageId>
+          <odeBlockId>block-1779115254290-znlj4yk2m</odeBlockId>
+          <odeIdeviceId>idevice-1779115254285-xwu6izshv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: center;"><strong>JUEGOS TÍPICOS ANDALUCES</strong></p>
+<table border="1" style="width: 99.922%; height: 610.668px;">
+<tbody>
+<tr style="height: 32.6667px;">
+<td style="width: 19.9844%; height: 32.6667px;"><strong>Criterio de evaluación</strong></td>
+<td style="width: 19.9844%; height: 32.6667px;"><strong> Excelente</strong><br /></td>
+<td style="width: 19.9844%; height: 32.6667px;"><strong> Adecuado</strong><br /></td>
+<td style="width: 19.9844%; height: 32.6667px;"><strong> En proceso</strong><br /></td>
+<td style="width: 19.9844%; height: 32.6667px;"><strong> Necesita mejorar</strong><br /></td>
+</tr>
+<tr style="height: 200.667px;">
+<td style="width: 19.9844%; height: 200.667px;">1.1.b. Reconocer la actividad física como alternativa de ocio saludable, practicando desplazamientos activos y sostenibles y conociendo sus beneficios físicos y mentales.</td>
+<td style="width: 19.9844%; height: 200.667px;">Reconoce y aplica hábitos saludables de forma autónoma y constante.</td>
+<td style="width: 19.9844%; height: 200.667px;">Reconoce los beneficios y participa activamente.</td>
+<td style="width: 19.9844%; height: 200.667px;">Presenta algunas dificultades para relacionar actividad física y salud.</td>
+<td style="width: 19.9844%; height: 200.667px;">No reconoce la importancia de la actividad física saludable.</td>
+</tr>
+<tr style="height: 176.667px;">
+<td style="width: 19.9844%; height: 176.667px;">1.4.b. Reconocer la propia imagen corporal y la de los demás, aceptando y respetando las diferencias individuales y rechazando conductas discriminatorias.</td>
+<td style="width: 19.9844%; height: 176.667px;">Respeta plenamente las diferencias y fomenta actitudes inclusivas.</td>
+<td style="width: 19.9844%; height: 176.667px;">Mantiene actitudes respetuosas hacia los demás.</td>
+<td style="width: 19.9844%; height: 176.667px;">Necesita apoyo para aceptar ciertas diferencias.</td>
+<td style="width: 19.9844%; height: 176.667px;">Presenta conductas poco respetuosas o discriminatorias.</td>
+</tr>
+<tr style="height: 200.667px;">
+<td style="width: 19.9844%; height: 200.667px;"> 4.1.b. Participar activamente en juegos motores y manifestaciones artístico-expresivas de la cultura andaluza y otras culturas, valorando su importancia social y cultural.<br /></td>
+<td style="width: 19.9844%; height: 200.667px;">Participa activamente y contextualiza el valor cultural de las actividades.</td>
+<td style="width: 19.9844%; height: 200.667px;">Participa y reconoce la importancia cultural básica.</td>
+<td style="width: 19.9844%; height: 200.667px;">Participa de forma irregular o con escasa implicación.</td>
+<td style="width: 19.9844%; height: 200.667px;">Apenas participa ni valora las manifestaciones culturales.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: center;"><strong> ¿Qué son los juegos tradicionales?</strong><br /></p>
+<p><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 19.9869%;"><strong> Criterio de evaluación</strong><br /></td>
+<td style="width: 19.9869%;"><strong>Excelente</strong></td>
+<td style="width: 19.9869%;"><strong>Adecuado</strong></td>
+<td style="width: 19.9869%;"><strong>En proceso</strong></td>
+<td style="width: 19.9879%;"><strong> Necesita mejorar</strong><br /></td>
+</tr>
+<tr>
+<td style="width: 19.9869%;"> 2.1.b. Llevar a cabo proyectos motores individuales o cooperativos utilizando estrategias de monitorización para analizar resultados.<br /></td>
+<td style="width: 19.9869%;">Organiza, desarrolla y analiza el proyecto con autonomía.</td>
+<td style="width: 19.9869%;">Participa adecuadamente y analiza resultados básicos.</td>
+<td style="width: 19.9869%;">Necesita ayuda para organizar o analizar el proyecto.</td>
+<td style="width: 19.9879%;">No logra desarrollar ni analizar el proyecto correctamente.</td>
+</tr>
+<tr>
+<td style="width: 19.9869%;"> 2.2.b. Participar en proyectos motores identificando estrategias de monitorización y seguimiento.<br /></td>
+<td style="width: 19.9869%;"> Identifica y aplica estrategias de seguimiento de forma autónoma.<br /></td>
+<td style="width: 19.9869%;"> Reconoce estrategias básicas de seguimiento.<br /></td>
+<td style="width: 19.9869%;"> Identifica algunas estrategias con ayuda.<br /></td>
+<td style="width: 19.9879%;"> No reconoce estrategias de seguimiento.<br /></td>
+</tr>
+<tr>
+<td style="width: 19.9869%;">3.1.b. Mostrar disposición positiva hacia la práctica física y el esfuerzo, controlando emociones negativas e impulsividad.</td>
+<td style="width: 19.9869%;">Mantiene siempre una actitud positiva y autocontrolada.</td>
+<td style="width: 19.9869%;">Generalmente muestra buena disposición y control emocional.</td>
+<td style="width: 19.9869%;">Presenta dificultades ocasionales de control emocional.</td>
+<td style="width: 19.9879%;"> Muestra rechazo frecuente o escaso control emocional.<br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: center;"><strong> Crucigramas de juegos andaluces</strong><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 19.9869%;"><strong>Criterio de evaluación</strong></td>
+<td style="width: 19.9869%;"><strong> Excelente</strong><br /></td>
+<td style="width: 19.9869%;"><strong>Adecuado</strong></td>
+<td style="width: 19.9869%;"><strong>En proceso</strong></td>
+<td style="width: 19.9879%;"><strong> Necesita mejorar</strong><br /></td>
+</tr>
+<tr>
+<td style="width: 19.9869%;"> 5.1.b. Desarrollar una práctica motriz segura en contextos naturales y urbanos aplicando medidas de conservación ambiental.<br /></td>
+<td style="width: 19.9869%;">Actúa siempre de forma segura y responsable con el entorno.</td>
+<td style="width: 19.9869%;">Mantiene conductas seguras y respeta el entorno.</td>
+<td style="width: 19.9869%;">Necesita recordatorios sobre seguridad o cuidado ambiental.</td>
+<td style="width: 19.9879%;"> Presenta conductas inseguras o poco respetuosas con el entorno.<br /></td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<p style="text-align: center;"><strong>Aprende sevillanas</strong></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 19.9661%;"><strong> Criterio de evaluación</strong><br /></td>
+<td style="width: 19.9661%;"><strong>Excelente</strong></td>
+<td style="width: 19.9661%;"><strong>Adecuado</strong></td>
+<td style="width: 19.9661%;"><strong>En proceso</strong></td>
+<td style="width: 19.9737%;"><strong>Necesita mejorar</strong></td>
+</tr>
+<tr>
+<td style="width: 19.9661%;">4.1.b. Participar activamente en juegos motores y manifestaciones artístico-expresivas de la cultura andaluza y otras culturas, valorando su importancia social y cultural.</td>
+<td style="width: 19.9661%;">Participa activamente y contextualiza el valor cultural de las actividades.</td>
+<td style="width: 19.9661%;">Participa y reconoce la importancia cultural básica.</td>
+<td style="width: 19.9661%;">Participa de forma irregular o con escasa implicación.</td>
+<td style="width: 19.9737%;">Apenas participa ni valora las manifestaciones culturales.</td>
+</tr>
+<tr>
+<td style="width: 19.9661%;"> 4.3.b. Reproducir combinaciones de movimientos y coreografías individuales y grupales transmitiendo emociones e ideas mediante el cuerpo.<br /></td>
+<td style="width: 19.9661%;">Expresa emociones e ideas con creatividad y precisión corporal.</td>
+<td style="width: 19.9661%;">Realiza adecuadamente movimientos y expresiones corporales.</td>
+<td style="width: 19.9661%;">Presenta dificultades expresivas o de coordinación.</td>
+<td style="width: 19.9737%;">Apenas participa o no logra reproducir las secuencias.</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779115254285-xwu6izshv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: center;\"><strong>JUEGOS TÍPICOS ANDALUCES</strong></p>\n<table border=\"1\" style=\"width: 99.922%; height: 610.668px;\">\n<tbody>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 19.9844%; height: 32.6667px;\"><strong>Criterio de evaluación</strong></td>\n<td style=\"width: 19.9844%; height: 32.6667px;\"><strong> Excelente</strong><br /></td>\n<td style=\"width: 19.9844%; height: 32.6667px;\"><strong> Adecuado</strong><br /></td>\n<td style=\"width: 19.9844%; height: 32.6667px;\"><strong> En proceso</strong><br /></td>\n<td style=\"width: 19.9844%; height: 32.6667px;\"><strong> Necesita mejorar</strong><br /></td>\n</tr>\n<tr style=\"height: 200.667px;\">\n<td style=\"width: 19.9844%; height: 200.667px;\">1.1.b. Reconocer la actividad física como alternativa de ocio saludable, practicando desplazamientos activos y sostenibles y conociendo sus beneficios físicos y mentales.</td>\n<td style=\"width: 19.9844%; height: 200.667px;\">Reconoce y aplica hábitos saludables de forma autónoma y constante.</td>\n<td style=\"width: 19.9844%; height: 200.667px;\">Reconoce los beneficios y participa activamente.</td>\n<td style=\"width: 19.9844%; height: 200.667px;\">Presenta algunas dificultades para relacionar actividad física y salud.</td>\n<td style=\"width: 19.9844%; height: 200.667px;\">No reconoce la importancia de la actividad física saludable.</td>\n</tr>\n<tr style=\"height: 176.667px;\">\n<td style=\"width: 19.9844%; height: 176.667px;\">1.4.b. Reconocer la propia imagen corporal y la de los demás, aceptando y respetando las diferencias individuales y rechazando conductas discriminatorias.</td>\n<td style=\"width: 19.9844%; height: 176.667px;\">Respeta plenamente las diferencias y fomenta actitudes inclusivas.</td>\n<td style=\"width: 19.9844%; height: 176.667px;\">Mantiene actitudes respetuosas hacia los demás.</td>\n<td style=\"width: 19.9844%; height: 176.667px;\">Necesita apoyo para aceptar ciertas diferencias.</td>\n<td style=\"width: 19.9844%; height: 176.667px;\">Presenta conductas poco respetuosas o discriminatorias.</td>\n</tr>\n<tr style=\"height: 200.667px;\">\n<td style=\"width: 19.9844%; height: 200.667px;\"> 4.1.b. Participar activamente en juegos motores y manifestaciones artístico-expresivas de la cultura andaluza y otras culturas, valorando su importancia social y cultural.<br /></td>\n<td style=\"width: 19.9844%; height: 200.667px;\">Participa activamente y contextualiza el valor cultural de las actividades.</td>\n<td style=\"width: 19.9844%; height: 200.667px;\">Participa y reconoce la importancia cultural básica.</td>\n<td style=\"width: 19.9844%; height: 200.667px;\">Participa de forma irregular o con escasa implicación.</td>\n<td style=\"width: 19.9844%; height: 200.667px;\">Apenas participa ni valora las manifestaciones culturales.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong> ¿Qué son los juegos tradicionales?</strong><br /></p>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9869%;\"><strong> Criterio de evaluación</strong><br /></td>\n<td style=\"width: 19.9869%;\"><strong>Excelente</strong></td>\n<td style=\"width: 19.9869%;\"><strong>Adecuado</strong></td>\n<td style=\"width: 19.9869%;\"><strong>En proceso</strong></td>\n<td style=\"width: 19.9879%;\"><strong> Necesita mejorar</strong><br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.9869%;\"> 2.1.b. Llevar a cabo proyectos motores individuales o cooperativos utilizando estrategias de monitorización para analizar resultados.<br /></td>\n<td style=\"width: 19.9869%;\">Organiza, desarrolla y analiza el proyecto con autonomía.</td>\n<td style=\"width: 19.9869%;\">Participa adecuadamente y analiza resultados básicos.</td>\n<td style=\"width: 19.9869%;\">Necesita ayuda para organizar o analizar el proyecto.</td>\n<td style=\"width: 19.9879%;\">No logra desarrollar ni analizar el proyecto correctamente.</td>\n</tr>\n<tr>\n<td style=\"width: 19.9869%;\"> 2.2.b. Participar en proyectos motores identificando estrategias de monitorización y seguimiento.<br /></td>\n<td style=\"width: 19.9869%;\"> Identifica y aplica estrategias de seguimiento de forma autónoma.<br /></td>\n<td style=\"width: 19.9869%;\"> Reconoce estrategias básicas de seguimiento.<br /></td>\n<td style=\"width: 19.9869%;\"> Identifica algunas estrategias con ayuda.<br /></td>\n<td style=\"width: 19.9879%;\"> No reconoce estrategias de seguimiento.<br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.9869%;\">3.1.b. Mostrar disposición positiva hacia la práctica física y el esfuerzo, controlando emociones negativas e impulsividad.</td>\n<td style=\"width: 19.9869%;\">Mantiene siempre una actitud positiva y autocontrolada.</td>\n<td style=\"width: 19.9869%;\">Generalmente muestra buena disposición y control emocional.</td>\n<td style=\"width: 19.9869%;\">Presenta dificultades ocasionales de control emocional.</td>\n<td style=\"width: 19.9879%;\"> Muestra rechazo frecuente o escaso control emocional.<br /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong> Crucigramas de juegos andaluces</strong><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9869%;\"><strong>Criterio de evaluación</strong></td>\n<td style=\"width: 19.9869%;\"><strong> Excelente</strong><br /></td>\n<td style=\"width: 19.9869%;\"><strong>Adecuado</strong></td>\n<td style=\"width: 19.9869%;\"><strong>En proceso</strong></td>\n<td style=\"width: 19.9879%;\"><strong> Necesita mejorar</strong><br /></td>\n</tr>\n<tr>\n<td style=\"width: 19.9869%;\"> 5.1.b. Desarrollar una práctica motriz segura en contextos naturales y urbanos aplicando medidas de conservación ambiental.<br /></td>\n<td style=\"width: 19.9869%;\">Actúa siempre de forma segura y responsable con el entorno.</td>\n<td style=\"width: 19.9869%;\">Mantiene conductas seguras y respeta el entorno.</td>\n<td style=\"width: 19.9869%;\">Necesita recordatorios sobre seguridad o cuidado ambiental.</td>\n<td style=\"width: 19.9879%;\"> Presenta conductas inseguras o poco respetuosas con el entorno.<br /></td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<p style=\"text-align: center;\"><strong>Aprende sevillanas</strong></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.9661%;\"><strong> Criterio de evaluación</strong><br /></td>\n<td style=\"width: 19.9661%;\"><strong>Excelente</strong></td>\n<td style=\"width: 19.9661%;\"><strong>Adecuado</strong></td>\n<td style=\"width: 19.9661%;\"><strong>En proceso</strong></td>\n<td style=\"width: 19.9737%;\"><strong>Necesita mejorar</strong></td>\n</tr>\n<tr>\n<td style=\"width: 19.9661%;\">4.1.b. Participar activamente en juegos motores y manifestaciones artístico-expresivas de la cultura andaluza y otras culturas, valorando su importancia social y cultural.</td>\n<td style=\"width: 19.9661%;\">Participa activamente y contextualiza el valor cultural de las actividades.</td>\n<td style=\"width: 19.9661%;\">Participa y reconoce la importancia cultural básica.</td>\n<td style=\"width: 19.9661%;\">Participa de forma irregular o con escasa implicación.</td>\n<td style=\"width: 19.9737%;\">Apenas participa ni valora las manifestaciones culturales.</td>\n</tr>\n<tr>\n<td style=\"width: 19.9661%;\"> 4.3.b. Reproducir combinaciones de movimientos y coreografías individuales y grupales transmitiendo emociones e ideas mediante el cuerpo.<br /></td>\n<td style=\"width: 19.9661%;\">Expresa emociones e ideas con creatividad y precisión corporal.</td>\n<td style=\"width: 19.9661%;\">Realiza adecuadamente movimientos y expresiones corporales.</td>\n<td style=\"width: 19.9661%;\">Presenta dificultades expresivas o de coordinación.</td>\n<td style=\"width: 19.9737%;\">Apenas participa o no logra reproducir las secuencias.</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr2-bq5tafg3r</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. PRODUCTO FINAL</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. PRODUCTO FINAL</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr2-bq5tafg3r</odePageId>
+      <odeBlockId>block-1779117590913-41wx583tz</odeBlockId>
+      <blockName>Presentación secuencia didáctica y producto final</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr2-bq5tafg3r</odePageId>
+          <odeBlockId>block-1779117590913-41wx583tz</odeBlockId>
+          <odeIdeviceId>idevice-1779117590910-tpxn4qilx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Os paso a enviar la presentación de las actividades y el producto final de nuestra SDA Jugamos a lo andaluz en el siguiente enlace: <a href="https://canva.link/yz2ma8q5wjum66z" title="">Presentación canva</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779117590910-tpxn4qilx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Os paso a enviar la presentación de las actividades y el producto final de nuestra SDA Jugamos a lo andaluz en el siguiente enlace: <a href=\"https://canva.link/yz2ma8q5wjum66z\" title=\"\">Presentación canva</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr3-ye9xid1oh</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. PROTECCIÓN DE DATOS Y CIUDADANÍA DIGITAL </pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. PROTECCIÓN DE DATOS Y CIUDADANÍA DIGITAL </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. PROTECCIÓN DE DATOS Y CIUDADANÍA DIGITAL </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr3-ye9xid1oh</odePageId>
+      <odeBlockId>block-1779037850675-9m1n2nz6m</odeBlockId>
+      <blockName>Descripción</blockName>
+      <iconName>file</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr3-ye9xid1oh</odePageId>
+          <odeBlockId>block-1779037850675-9m1n2nz6m</odeBlockId>
+          <odeIdeviceId>idevice-1779037850674-26v771i5v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>En este apartado, como pueden observar, hemos insertado la imagen del documento de la ''Protección de datos'' donde creamos una infografía sobre la protección de datos de internet.</p>
+<p>Por otro lado, le dejo el enlace al documento de canva: <a href="https://canva.link/5bduv2632pozg8c" title="">PROTECCIÓN DE DATOS</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779037850674-26v771i5v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>En este apartado, como pueden observar, hemos insertado la imagen del documento de la ''Protección de datos'' donde creamos una infografía sobre la protección de datos de internet.</p>\n<p>Por otro lado, le dejo el enlace al documento de canva: <a href=\"https://canva.link/5bduv2632pozg8c\" title=\"\">PROTECCIÓN DE DATOS</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr3-ye9xid1oh</odePageId>
+      <odeBlockId>block-1779037459348-3fv45vtwa</odeBlockId>
+      <blockName>Imagen de protección de datos en internet.</blockName>
+      <iconName>alert</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr3-ye9xid1oh</odePageId>
+          <odeBlockId>block-1779037459348-3fv45vtwa</odeBlockId>
+          <odeIdeviceId>idevice-1779037459346-poetybs2q</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779037459346-poetybs2q" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-17 190411.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-17 190411.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779037459346-poetybs2q","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-17 190411.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-17 190411.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr4-o80et85gf</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. ACTIVIDADES Y TAREAS</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ACTIVIDADES Y TAREAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ACTIVIDADES Y TAREAS</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr4-o80et85gf</odePageId>
+      <odeBlockId>block-1779038256266-2ubqkcswu</odeBlockId>
+      <blockName>Actividades y criterios</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr4-o80et85gf</odePageId>
+          <odeBlockId>block-1779038256266-2ubqkcswu</odeBlockId>
+          <odeIdeviceId>idevice-1779038256263-n58gxoyff</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>A continuación, le mostramos una tabla donde asociamos las tareas a los criterios de evaluación: <a href="https://docs.google.com/document/d/1KYGF1QrrnlNIQ_1e3HaeFkycjws9sIzsWpeoEgeu170/edit?usp=sharing" title="">Tabla de actividades</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779038256263-n58gxoyff","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>A continuación, le mostramos una tabla donde asociamos las tareas a los criterios de evaluación: <a href=\"https://docs.google.com/document/d/1KYGF1QrrnlNIQ_1e3HaeFkycjws9sIzsWpeoEgeu170/edit?usp=sharing\" title=\"\">Tabla de actividades</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr4-o80et85gf</odePageId>
+      <odeBlockId>block-1779038459283-ydclzv46s</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>book</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr4-o80et85gf</odePageId>
+          <odeBlockId>block-1779038459283-ydclzv46s</odeBlockId>
+          <odeIdeviceId>idevice-1779038459282-b6ehdbn2y</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779038459282-b6ehdbn2y" title="" href="{{context_path}}/content/resources/Captura de pantalla 2026-05-17 192145.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/Captura de pantalla 2026-05-17 192145.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779038459282-b6ehdbn2y","img_0":{"img":"{{context_path}}/content/resources/Captura de pantalla 2026-05-17 192145.png","thumbnail":"{{context_path}}/content/resources/Captura de pantalla 2026-05-17 192145.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr5-3xivhyeae</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. LÍNEA TEMPORAL </pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. LÍNEA TEMPORAL </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. LÍNEA TEMPORAL </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr5-3xivhyeae</odePageId>
+      <odeBlockId>block-1779038616119-l9z6lhqer</odeBlockId>
+      <blockName>Nuestra línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr5-3xivhyeae</odePageId>
+          <odeBlockId>block-1779038616119-l9z6lhqer</odeBlockId>
+          <odeIdeviceId>idevice-1779038616118-6lfhr1j7b</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://padlet.com/vrodrod139/mi-sandbox-fenomenal-7po4dprr3f098w9o" title="">Línea temporal</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779038616118-6lfhr1j7b","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://padlet.com/vrodrod139/mi-sandbox-fenomenal-7po4dprr3f098w9o\" title=\"\">Línea temporal</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr5-3xivhyeae</odePageId>
+      <odeBlockId>block-1779038747443-h6jigvy0u</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr5-3xivhyeae</odePageId>
+          <odeBlockId>block-1779038747443-h6jigvy0u</odeBlockId>
+          <odeIdeviceId>idevice-1779038747440-xlilw16f4</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779038747440-xlilw16f4" title="" href="{{context_path}}/content/resources/a946640927eedbcfe6ea410302984e4a59dc94f7212a267a27b0e3e00485c5f9.png" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/a946640927eedbcfe6ea410302984e4a59dc94f7212a267a27b0e3e00485c5f9.png" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779038747440-xlilw16f4","img_0":{"img":"{{context_path}}/content/resources/a946640927eedbcfe6ea410302984e4a59dc94f7212a267a27b0e3e00485c5f9.png","thumbnail":"{{context_path}}/content/resources/a946640927eedbcfe6ea410302984e4a59dc94f7212a267a27b0e3e00485c5f9.png","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr6-rsrnpzdj3</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. EVALUACIÓN</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. EVALUACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr6-rsrnpzdj3</odePageId>
+      <odeBlockId>block-1779039171666-bst2emmsd</odeBlockId>
+      <blockName>Documento</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr6-rsrnpzdj3</odePageId>
+          <odeBlockId>block-1779039171666-bst2emmsd</odeBlockId>
+          <odeIdeviceId>idevice-1779039171664-3h5yrn2dz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://docs.google.com/document/d/1yZOP_qPUcL6qrZIuL0uPmekyOhDGVmYIJWSE-kYdLac/edit?usp=sharing" title="">Evaluación</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779039171664-3h5yrn2dz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://docs.google.com/document/d/1yZOP_qPUcL6qrZIuL0uPmekyOhDGVmYIJWSE-kYdLac/edit?usp=sharing\" title=\"\">Evaluación</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr6-j11g9cc0o</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. ATENCIÓN A LA DIVERSIDAD Y DUA</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. ATENCIÓN A LA DIVERSIDAD Y DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. ATENCIÓN A LA DIVERSIDAD Y DUA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr6-j11g9cc0o</odePageId>
+      <odeBlockId>block-1779040996759-d0lj88j9k</odeBlockId>
+      <blockName>Nuestras medidas</blockName>
+      <iconName>collaborative</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr6-j11g9cc0o</odePageId>
+          <odeBlockId>block-1779040996759-d0lj88j9k</odeBlockId>
+          <odeIdeviceId>idevice-1779040996753-xbszvsv3l</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para que nuestra SDA sea inclusiva con todo el alumnado, hemos propuesto diferentes medidas siguiendo la atención a la diversidad y los principios del diseño universal del aprendizaje que os dejamos para que puedan ver en el enlace: <a href="https://padlet.com/vrodrod139/mi-sandbox-espectacular-dva2c698vwwqfjvn?frame_id=page%3AJLefBpb03NSr0280vWIoz" title="">PADLET ATENCIÓN A LA DIVERSIDAD Y PRINCIPIOS DUA</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779040996753-xbszvsv3l","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para que nuestra SDA sea inclusiva con todo el alumnado, hemos propuesto diferentes medidas siguiendo la atención a la diversidad y los principios del diseño universal del aprendizaje que os dejamos para que puedan ver en el enlace: <a href=\"https://padlet.com/vrodrod139/mi-sandbox-espectacular-dva2c698vwwqfjvn?frame_id=page%3AJLefBpb03NSr0280vWIoz\" title=\"\">PADLET ATENCIÓN A LA DIVERSIDAD Y PRINCIPIOS DUA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr6-j11g9cc0o</odePageId>
+      <odeBlockId>block-1779041127715-2pea7meyd</odeBlockId>
+      <blockName>Galería de imágenes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr6-j11g9cc0o</odePageId>
+          <odeBlockId>block-1779041127715-2pea7meyd</odeBlockId>
+          <odeIdeviceId>idevice-1779041127712-ex0zvqhix</odeIdeviceId>
+          <odeIdeviceTypeName>image-gallery</odeIdeviceTypeName>
+          <htmlView><![CDATA[<!-- Idevice Example template start -->
+<div class="exe-image-gallery-template">
+  <!-- Idevice content start -->
+  
+            <div class="imageGallery-IDevice">
+                <div class="imageGallery-body"><div id="imageContainer_0" class="imageContainer"> <a idevice-id="idevice-1779041127712-ex0zvqhix" title="" href="{{context_path}}/content/resources/page2.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/page2.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div><div id="imageContainer_1" class="imageContainer"> <a idevice-id="idevice-1779041127712-ex0zvqhix" title="" href="{{context_path}}/content/resources/12.jpeg" class="imageLink">  <div class="imageElement">   <img src="{{context_path}}/content/resources/12.jpeg" height="128" width="128" title="" alt="" titlelink="" author="" authorlink="" license="" licenselink=""/>  </div> </a></div>
+                </div>
+            </div>
+  <!-- Idevice content end -->
+</div>
+<!-- Idevice Example template end -->]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779041127712-ex0zvqhix","img_0":{"img":"{{context_path}}/content/resources/page2.jpeg","thumbnail":"{{context_path}}/content/resources/page2.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""},"img_1":{"img":"{{context_path}}/content/resources/12.jpeg","thumbnail":"{{context_path}}/content/resources/12.jpeg","title":"","linktitle":"","author":"","linkauthor":"","license":""}}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr7-ocw7t4ogw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>10. GUÍA DIDÁCTICA</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>10. GUÍA DIDÁCTICA</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr7-ocw7t4ogw</odePageId>
+      <odeBlockId>block-1779118220127-esfqh0hg3</odeBlockId>
+      <blockName>Guía didáctica</blockName>
+      <iconName>pieces</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr7-ocw7t4ogw</odePageId>
+          <odeBlockId>block-1779118220127-esfqh0hg3</odeBlockId>
+          <odeIdeviceId>idevice-1779118220124-2jfqfwjtz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <table border="1" style="width: 99.922%; height: 226.667px;">
+<tbody>
+<tr style="height: 80.6667px;">
+<td style="width: 16.6169%; height: 80.6667px; text-align: center;"><strong>Tarea</strong></td>
+<td style="width: 20.2459%; height: 80.6667px; text-align: center;"><strong>Criterios de evaluación relacionados</strong></td>
+<td style="width: 22.5379%; height: 80.6667px; text-align: center;"><strong>Agrupamiento</strong></td>
+<td style="width: 19.2909%; height: 80.6667px; text-align: center;"><strong>Tiempo aproximado</strong></td>
+<td style="width: 21.2009%; height: 80.6667px; text-align: center;"><strong>Herramientas digitales</strong></td>
+</tr>
+<tr style="height: 80.6667px;">
+<td style="width: 16.6169%; height: 80.6667px;">Juegos típicos andaluces</td>
+<td style="width: 20.2459%; height: 80.6667px;">4.1.1. | 4.1.4. | 4.4.1.</td>
+<td style="width: 22.5379%; height: 80.6667px;">Individual</td>
+<td style="width: 19.2909%; height: 80.6667px;">1 hora</td>
+<td style="width: 21.2009%; height: 80.6667px;">Google Documentos y Classroom</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 16.6169%; height: 32.6667px;">¿Qué son los juegos tradicionales?</td>
+<td style="width: 20.2459%; height: 32.6667px;">4.2.1. | 4.2.2. | 4.3.1.</td>
+<td style="width: 22.5379%; height: 32.6667px;">Grupo clase</td>
+<td style="width: 19.2909%; height: 32.6667px;">10 minutos</td>
+<td style="width: 21.2009%; height: 32.6667px;">YouTube</td>
+</tr>
+<tr style="height: 32.6667px;">
+<td style="width: 16.6169%; height: 32.6667px;">Crucigramas de juegos andaluces</td>
+<td style="width: 20.2459%; height: 32.6667px;">4.5.1.</td>
+<td style="width: 22.5379%; height: 32.6667px;">Grupos de 4</td>
+<td style="width: 19.2909%; height: 32.6667px;">15 minutos</td>
+<td style="width: 21.2009%; height: 32.6667px;">Wordwall</td>
+</tr>
+<tr>
+<td style="width: 16.6169%;">Aprende sevillanas</td>
+<td style="width: 20.2459%;">4.4.1. | 4.4.3.</td>
+<td style="width: 22.5379%;">Parejas</td>
+<td style="width: 19.2909%;">4 horas</td>
+<td style="width: 21.2009%;">YouTube</td>
+</tr>
+</tbody>
+</table>
+<p><br /></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 20.5029%;"><strong>Competencias específicas</strong></td>
+<td style="width: 79.4647%;">
+<ul>
+<li>Desarrollar la competencia digital mediante el uso responsable y creativo de herramientas tecnológicas aplicadas al aprendizaje.</li>
+<li>Conocer y valorar los juegos tradicionales andaluces como parte del patrimonio cultural.</li>
+<li>Fomentar el trabajo cooperativo y la participación activa del alumnado.</li>
+<li>Mejorar la comunicación oral, escrita y corporal a través de actividades interactivas y prácticas.</li>
+<li>Potenciar la autonomía del alumnado en la búsqueda, selección y elaboración de información digital.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table border="1" style="width: 100%; height: 192.667px;">
+<tbody>
+<tr style="height: 192.667px;">
+<td style="width: 20.5003%; height: 192.667px;"><strong>Observaciones metodológicas</strong></td>
+<td style="width: 79.4673%; height: 192.667px;">
+<ul>
+<li>Se empleará una metodología activa y participativa basada en el aprendizaje significativo.<br /></li>
+<li>Las actividades combinarán trabajo individual, cooperativo y grupal para favorecer la inclusión y la atención a la diversidad.<br /></li>
+<li>El uso de herramientas digitales permitirá reforzar la motivación y la interacción del alumnado.<br /></li>
+<li>Las propuestas didácticas estarán orientadas a relacionar los contenidos culturales andaluces con experiencias cercanas al alumnado.<br /></li>
+<li>Se priorizará el aprendizaje práctico mediante dinámicas lúdicas, audiovisuales y colaborativas.</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 19.334%;"><strong>Recomendaciones docentes</strong></td>
+<td style="width: 80.6336%;">
+<ul>
+<li>Revisar previamente el funcionamiento de los dispositivos, conexión a internet y plataformas digitales antes de cada sesión.<br /></li>
+<li>Contar con actividades alternativas o materiales impresos ante posibles incidencias técnicas.<br /></li>
+<li>Facilitar instrucciones claras sobre el uso de las herramientas digitales empleadas.<br /></li>
+<li>Favorecer un clima de colaboración y ayuda entre iguales para resolver dificultades tecnológicas.<br /></li>
+<li>Adaptar los tiempos y actividades según las necesidades del grupo y el nivel de competencia digital del alumnado.<br /></li>
+<li>Promover un uso seguro, responsable y respetuoso de las tecnologías digitales dentro y fuera del aula.<br /></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779118220124-2jfqfwjtz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<table border=\"1\" style=\"width: 99.922%; height: 226.667px;\">\n<tbody>\n<tr style=\"height: 80.6667px;\">\n<td style=\"width: 16.6169%; height: 80.6667px; text-align: center;\"><strong>Tarea</strong></td>\n<td style=\"width: 20.2459%; height: 80.6667px; text-align: center;\"><strong>Criterios de evaluación relacionados</strong></td>\n<td style=\"width: 22.5379%; height: 80.6667px; text-align: center;\"><strong>Agrupamiento</strong></td>\n<td style=\"width: 19.2909%; height: 80.6667px; text-align: center;\"><strong>Tiempo aproximado</strong></td>\n<td style=\"width: 21.2009%; height: 80.6667px; text-align: center;\"><strong>Herramientas digitales</strong></td>\n</tr>\n<tr style=\"height: 80.6667px;\">\n<td style=\"width: 16.6169%; height: 80.6667px;\">Juegos típicos andaluces</td>\n<td style=\"width: 20.2459%; height: 80.6667px;\">4.1.1. | 4.1.4. | 4.4.1.</td>\n<td style=\"width: 22.5379%; height: 80.6667px;\">Individual</td>\n<td style=\"width: 19.2909%; height: 80.6667px;\">1 hora</td>\n<td style=\"width: 21.2009%; height: 80.6667px;\">Google Documentos y Classroom</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 16.6169%; height: 32.6667px;\">¿Qué son los juegos tradicionales?</td>\n<td style=\"width: 20.2459%; height: 32.6667px;\">4.2.1. | 4.2.2. | 4.3.1.</td>\n<td style=\"width: 22.5379%; height: 32.6667px;\">Grupo clase</td>\n<td style=\"width: 19.2909%; height: 32.6667px;\">10 minutos</td>\n<td style=\"width: 21.2009%; height: 32.6667px;\">YouTube</td>\n</tr>\n<tr style=\"height: 32.6667px;\">\n<td style=\"width: 16.6169%; height: 32.6667px;\">Crucigramas de juegos andaluces</td>\n<td style=\"width: 20.2459%; height: 32.6667px;\">4.5.1.</td>\n<td style=\"width: 22.5379%; height: 32.6667px;\">Grupos de 4</td>\n<td style=\"width: 19.2909%; height: 32.6667px;\">15 minutos</td>\n<td style=\"width: 21.2009%; height: 32.6667px;\">Wordwall</td>\n</tr>\n<tr>\n<td style=\"width: 16.6169%;\">Aprende sevillanas</td>\n<td style=\"width: 20.2459%;\">4.4.1. | 4.4.3.</td>\n<td style=\"width: 22.5379%;\">Parejas</td>\n<td style=\"width: 19.2909%;\">4 horas</td>\n<td style=\"width: 21.2009%;\">YouTube</td>\n</tr>\n</tbody>\n</table>\n<p><br /></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 20.5029%;\"><strong>Competencias específicas</strong></td>\n<td style=\"width: 79.4647%;\">\n<ul>\n<li>Desarrollar la competencia digital mediante el uso responsable y creativo de herramientas tecnológicas aplicadas al aprendizaje.</li>\n<li>Conocer y valorar los juegos tradicionales andaluces como parte del patrimonio cultural.</li>\n<li>Fomentar el trabajo cooperativo y la participación activa del alumnado.</li>\n<li>Mejorar la comunicación oral, escrita y corporal a través de actividades interactivas y prácticas.</li>\n<li>Potenciar la autonomía del alumnado en la búsqueda, selección y elaboración de información digital.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<table border=\"1\" style=\"width: 100%; height: 192.667px;\">\n<tbody>\n<tr style=\"height: 192.667px;\">\n<td style=\"width: 20.5003%; height: 192.667px;\"><strong>Observaciones metodológicas</strong></td>\n<td style=\"width: 79.4673%; height: 192.667px;\">\n<ul>\n<li>Se empleará una metodología activa y participativa basada en el aprendizaje significativo.<br /></li>\n<li>Las actividades combinarán trabajo individual, cooperativo y grupal para favorecer la inclusión y la atención a la diversidad.<br /></li>\n<li>El uso de herramientas digitales permitirá reforzar la motivación y la interacción del alumnado.<br /></li>\n<li>Las propuestas didácticas estarán orientadas a relacionar los contenidos culturales andaluces con experiencias cercanas al alumnado.<br /></li>\n<li>Se priorizará el aprendizaje práctico mediante dinámicas lúdicas, audiovisuales y colaborativas.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 19.334%;\"><strong>Recomendaciones docentes</strong></td>\n<td style=\"width: 80.6336%;\">\n<ul>\n<li>Revisar previamente el funcionamiento de los dispositivos, conexión a internet y plataformas digitales antes de cada sesión.<br /></li>\n<li>Contar con actividades alternativas o materiales impresos ante posibles incidencias técnicas.<br /></li>\n<li>Facilitar instrucciones claras sobre el uso de las herramientas digitales empleadas.<br /></li>\n<li>Favorecer un clima de colaboración y ayuda entre iguales para resolver dificultades tecnológicas.<br /></li>\n<li>Adaptar los tiempos y actividades según las necesidades del grupo y el nivel de competencia digital del alumnado.<br /></li>\n<li>Promover un uso seguro, responsable y respetuoso de las tecnologías digitales dentro y fuera del aula.<br /></li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpdu3xr8-x0kaerbkq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>11. CRÉDITOS FINALES</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. CRÉDITOS FINALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>11. CRÉDITOS FINALES</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpdu3xr8-x0kaerbkq</odePageId>
+      <odeBlockId>block-1779265072288-140u87fgk</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>geography</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpdu3xr8-x0kaerbkq</odePageId>
+          <odeBlockId>block-1779265072288-140u87fgk</odeBlockId>
+          <odeIdeviceId>idevice-1779265072286-rzggz464e</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-title">JUGAMOS A LO ANDALUZ</span></td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-description">El alumnado investigará y practicará diferentes juegos tradicionales andaluces. </span></td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-author">Vicente Rodríguez Rodríguez</span></td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td class="mceNonEditable exe-prop-locked"><span class="exe-prop-license">creative commons: attribution - share alike 4.0</span></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="https://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
